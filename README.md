@@ -21,13 +21,14 @@ You can find the data here:
 ## Some Details 
 
 * Task
-> * `Input`: .
-> * `Output`: . 
+> * `Input`: Id of the user in the system.
+> * `Output`: Top 10 Recommend posts. 
 
+* Dataset
 
 * Results
 
-* Dataset
+
 
 * Deploy
 
