@@ -53,6 +53,8 @@ You can find the data here:
 > * Content-based Filtering + LDA:<a href="LDA.ipynb" target="_blank"> Build model LDA</a>, <a href="CB_LDA.ipynb" target="_blank">CB on LDA</a>.
 > * NCF: <a href="NCF.ipynb" target="_blank">NCF.ipynb</a>.
 
+> *Still in the process of being updated*
+ 
 ## Report
 
 * Text report: <a href="Report.pdf" target="_blank">Report</a>.
