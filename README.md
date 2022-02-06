@@ -27,11 +27,23 @@ You can find the data here:
 > * Input: User ID in system.
 > * Output: Top 10 recommended posts.
 
+* Experiment
 
-The techniques used as well as the processes and approaches to the problem are detailed in my report file, see it to understand better. And here are the results of the experiment:
-<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/47b4dd951d483b2291756df62442438c0067123a/Image_Font_Project/Result.PNG" width="700" ></p>
-<p align="center"><i>Fig. 8.Experimental results.</i></p>
+> The techniques used as well as the processes and approaches to the problem are detailed in my report file, see it to understand better. And here are some of the results obtained after the experiment:
+> * Apply clustering: 
+<p align="center"><img src="Image_RSForum/cluster.PNG" width="700" ></p>
+<p align="center"><i>Fig. 1.The results of clustering with k are 2, 3, 4, 5, respectively and choose k=3.</i></p>
 
+> * LDA: 
+<p align="center"><img src="Image_RSForum/coherence.PNG" width="700" ></p>
+<p align="center"><i>Fig. 2.Experimental results with different numbers of topics and choose num_topics=13.</i></p>
+
+<p align="center"><img src="Image_RSForum/w.PNG" width="700" ></p>
+<p align="center"><i>Fig. 3.Distribute the words in each topic of the LDA model with the number of topics = 13.</i></p>
+
+> * Results based on Top 10 Hit ratio and NDCG.: 
+<p align="center"><img src="Image_RSForum/Result.PNG" width="700" ></p>
+<p align="center"><i>Fig. 4.Experimental results.</i></p>
 
 ## Code
 
